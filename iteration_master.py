@@ -1,8 +1,7 @@
-
 '''
 Quiero contar del 1 al 20 de uno en uno.
 ¿De cuántas maneras eres capaz de hacerlo?
-Crea el código para cada una de ellas.
+Crea el código a partir de cada una de ellas.
 '''
 
 print("===== METODO 1: FOR =====")
