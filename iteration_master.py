@@ -1,5 +1,6 @@
+
 '''
-Quiero contar del 1 al 20 de uno en uno (imprimiendo cada uno).
+Quiero contar del 1 al 20 de uno en uno.
 ¿De cuántas maneras eres capaz de hacerlo?
 Crea el código para cada una de ellas.
 '''
